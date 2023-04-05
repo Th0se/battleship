@@ -4,7 +4,7 @@
   "description": "A simple game of battleship",
   "private": "true",
   "scripts": {
-    "test": "jest",
+    "test": "jest --coverage",
     "build": "webpack"
   },
   "repository": {

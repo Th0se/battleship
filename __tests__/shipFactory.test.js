@@ -1,7 +1,6 @@
 import {
-    Ship
+    Ship,
 } from '../src/shipFactory.js';
-
 
 describe(`ship factory`, () => {
     test(`should be afloat`, () => {
